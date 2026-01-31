@@ -1,13 +1,9 @@
-Voici un **README.md** complet, professionnel et élégant pour ton dépôt GitHub. Il est rédigé en anglais (standard sur GitHub) avec des sections claires et les zones prévues pour tes captures d'écran.
-
----
-
-# 🚗 BeamNG Skin Maker - Pro Edition
+# 🚗 BeamNG Skin Toolbox
 ![Developed in France](https://img.shields.io/badge/Developed%20in-France-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-**BeamNG Skin Maker** est un outil d'automatisation puissant conçu pour les moddeurs de BeamNG.drive. Il élimine les erreurs manuelles fastidieuses en générant instantanément l'arborescence des dossiers, les fichiers JBeam et les fichiers de matériaux (`.cs`), tout en garantissant une compatibilité parfaite grâce à son système de nettoyage d'ID "Anti-Bug".
+**BeamNG Skin Toolbox** est un outil d'automatisation puissant conçu pour les moddeurs de BeamNG.drive. Il élimine les erreurs manuelles fastidieuses en générant instantanément l'arborescence des dossiers, les fichiers JBeam et les fichiers de matériaux (`.cs`), tout en garantissant une compatibilité parfaite grâce à son système de nettoyage d'ID "Anti-Bug".
 
 ---
 
@@ -86,12 +82,3 @@ sudo dnf install python3 python3-tkinter ImageMagick
 ## 🏆 Crédits
 - **Développé en France 🇫🇷 par Slapush.**
 - Inspiré par l'univers et l'interface de **BeamNG.drive**.
-
----
-
-### 💡 Conseil pour ton GitHub :
-Pour que les images s'affichent réellement :
-1. Prends tes captures d'écran.
-2. Nomme-les `screenshot_fr.png` et `screenshot_en.png`.
-3. Envoie-les dans ton dépôt GitHub.
-4. Dans le README, remplace les liens `https://via.placeholder.com/...` par le nom de tes fichiers (ex: `![Version Française](screenshot_fr.png)`).
