@@ -15,11 +15,11 @@ Voici un **README.md** complet, professionnel et élégant pour ton dépôt GitH
 
 ### 🇫🇷 Version Française
 > *Insérez votre capture d'écran de la version française ici*
-![Version Française](screenshot_fr.png)
+![Version Française](ScreenShoot/screenshot_fr.png)
 
 ### 🇬🇧 English Version
 > *Insert your English version screenshot here*
-![English Version](screenshot_en.png)
+![English Version](ScreenShoot/screenshot_en.png)
 
 ---
 
