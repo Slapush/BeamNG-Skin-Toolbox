@@ -73,6 +73,7 @@ Open your terminal in the script folder and type:
 python beamng_skin_en.py
 ```
 > **Note (Linux)** : Si `python` ne fonctionne pas, essayez avec `python3`.
+
 > **Note (Windows)** : Vous pouvez aussi simplement faire un **double-clic** sur le fichier `.py` si Python est correctement installé.
 
 2. **Nom du Mod** : Le nom du dossier qui contiendra votre mod.
