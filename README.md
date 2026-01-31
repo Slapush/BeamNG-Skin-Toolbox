@@ -60,7 +60,21 @@ sudo dnf install python3 python3-tkinter ImageMagick
 
 ## 🚀 Utilisation / Usage
 
-1. Exécutez le script correspondant à votre langue : `python beamng_skin_fr.py` ou `python beamng_skin_en.py`.
+1. Exécutez le script correspondant à votre langue : 
+#### **🇫🇷 Version Française**
+Ouvrez votre terminal dans le dossier du script et tapez :
+```bash
+python beamng_skin_fr.py
+```
+
+#### **🇬🇧 English Version**
+Open your terminal in the script folder and type:
+```bash
+python beamng_skin_en.py
+```
+> **Note (Linux)** : Si `python` ne fonctionne pas, essayez avec `python3`.
+> **Note (Windows)** : Vous pouvez aussi simplement faire un **double-clic** sur le fichier `.py` si Python est correctement installé.
+
 2. **Nom du Mod** : Le nom du dossier qui contiendra votre mod.
 3. **Nom du Skin** : Le nom qui apparaîtra dans le menu de configuration du véhicule en jeu.
 4. **Véhicule** : Sélectionnez le modèle cible dans la liste.
